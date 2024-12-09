@@ -1,1 +1,2 @@
 # chinmaya
+author-chinmaya
