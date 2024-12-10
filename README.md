@@ -1,2 +1,2 @@
 # chinmaya
-author-chinmaya
+author-chinmaya sahu
